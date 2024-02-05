@@ -16,6 +16,7 @@
     "baseUrl": ".",
     "paths": {
       "@95x/ci-ui": ["ci-ui/src/index.ts"],
+      "@95x/shared": ["shared/src/index.ts"],
       "@95x/ui": ["ui/src/index.ts"]
     }
   },
